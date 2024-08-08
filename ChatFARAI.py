@@ -1,3 +1,6 @@
+//dilarang copy paste ! 
+//dibuat oleh Farrel
+
 from flask import Flask, request, jsonify, render_template_string
 import requests
 from flask_caching import Cache
